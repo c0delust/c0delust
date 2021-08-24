@@ -2,4 +2,4 @@
 
 ![ ](https://komarev.com/ghpvc/?username=codelust&color=brightgreen&style=plastic)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codelust&show_icons=true&layout=compac" alt="codelust" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codelust&show_icons=true&layout=compac%22%20alt=%22codelust" />
