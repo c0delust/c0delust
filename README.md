@@ -1,4 +1,7 @@
-![helloworld](https://user-images.githubusercontent.com/83002941/148117040-84437838-284d-4711-bd8d-860306dc29ee.gif)
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/83002941/148117040-84437838-284d-4711-bd8d-860306dc29ee.gif">
+</p>
+
 # I'm Mohmmadsaad, a Tech Geek 💻 🤓
 ![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=codelust&color=55acb7&style=for-the-badge&logo=Github)
 <br><br>
