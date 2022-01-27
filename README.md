@@ -9,7 +9,6 @@
 <b>Connect with Me : </b>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/_codelust) &emsp;
-[![Twitter Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadmulla2077@gmail.com)
 <br><br>
 
 <b>Love to code in : </b>
