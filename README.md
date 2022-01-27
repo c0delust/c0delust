@@ -13,10 +13,6 @@
 <br><br>
 
 <b>Love to code in : </b>
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.learn-c.org/) &emsp;
-
-<a href="http://example.com/" target="_blank">Hello, world!</a>
-
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.learn-c.org/) &emsp;
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.w3schools.com/java/) &emsp;
