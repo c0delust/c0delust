@@ -6,7 +6,7 @@
 
 <b>Connect with Me : </b>
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/codelust) &emsp;
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/c0delust) &emsp;
 <br><br>
 
 <b>Love to code in : </b>
