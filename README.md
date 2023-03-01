@@ -1,13 +1,4 @@
-<p align = "center">
-  <img src = "https://user-images.githubusercontent.com/83002941/148117040-84437838-284d-4711-bd8d-860306dc29ee.gif">
-</p>
-
-# I'm Mohmmadsaad 💻 🤓
-
-<b>Connect with Me : </b>
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/c0delust) &emsp;
-<br><br>
+# Hello 👋, I'm Mohammadsaad
 
 <b>Love to code in : </b>
 
