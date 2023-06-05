@@ -1,8 +1,7 @@
 <h1 align="center"> Hello 👋, I'm Mohammadsaad </h1> 
 <h3 align="center"> Flutter Enthusiast | CyberSec Beginnner</h3> 
 
-[link](www.google.com){:target="_blank"}
-
+ <a href="placeholder.com" target="_blank">Opens in new tab</a>
 <h2 align="center">
   
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/c0delust/) &emsp;
