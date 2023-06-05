@@ -19,5 +19,5 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0delust)]()
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c0delust&layout=compact)]()
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c0delust&layout=compact)](https://wakatime.com/@c0delust)
   
